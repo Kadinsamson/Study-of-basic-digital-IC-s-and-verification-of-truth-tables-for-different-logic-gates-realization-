@@ -89,7 +89,7 @@ endmodule
 
 ```
 ## Logic symbol & Truthtable
-![output](?raw=true)
+![output](https://github.com/Kadinsamson/Study-of-basic-digital-IC-s-and-verification-of-truth-tables-for-different-logic-gates-realization-/blob/main/.e1.png?raw=true)
 ## RTL realization 
 
 ## Output:
